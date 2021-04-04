@@ -1,2 +1,2 @@
 # telegram-botV2
-Telegram Bot Node.js
+Belom Jadi Sabarr mamang :v
